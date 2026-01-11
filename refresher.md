@@ -1,4 +1,4 @@
-# Table of Contents 
+## Table of Contents
 - [Python](#python-refresher)
 - [HTML](#html-refresher)
 - [Regular Expressions](#regular-expressions-refresher)

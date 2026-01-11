@@ -1,11 +1,22 @@
-# Assessment Information 
+## Table of Contents
+- [Assessment Overview](#assessment-overview)
+- [Assessment Deadlines](#assessment-deadline)
+- [Coursework Brief and Guidance](#coursework-brief-and-guidance)
+
+--- 
+
+# Assessment Overview
+
+This unit is assessed entirely through **group coursework**, with individual differentiation achieved via a reflective discussion and supervisor assessment.
+
+# Assessment Deadline 
 
 There are two relevant deadlines:
 
 | Assessment Component | Date and Time |
 |----------------------|---------------|
 |Coursework work-in-progress presentation | 9am–12pm, Thursday 16 April 2026 |
-| Group Final Report + Individual Reflective Discussion | 1pm, Monday 27 April 2026 (To be confirmed) |
+| Group Final Report + Individual Reflective Discussion | 1pm, Monday 27 April 2026 (to be confirmed) |
 
 ### Coursework work-in-progress presentation:
 
@@ -13,14 +24,22 @@ Each group should prepare a short 5-minute talk discussing the problem they are 
 
 ### Final report:
 
-Every student should go to the appropriate submission point for their cohort, they should submit one pdf that is a 10-page report (including references) + a 1-page reflective discussion. The 10 pages report should be identical across members of the same group. The reflective discussion should be unique to each student.
+Every student should go to the appropriate submission point for their cohort and submit **one PDF** containing: 
+- a 10-page group report (including references), and
+- a 1-page individual reflective discussion.
 
-To submit:
+The 10-page report must be identical across members of the same group. The reflective discussion should be unique to each student.
 
-- Year 3: Please head to "COMS30051_202x_TB-2: Applied Data Science 2024 (Year 3 UG Coursework Submission)"
-- Year 4: Please head to "COMSM0055_202x_TB-2: Applied Data Science 2024 (M-Level UG Coursework Submission)"
+To submit, please head to:
 
-Please adhere to the 10+1 page limit. Any supplemental information or additional results including tables and plots, and references could be linked to a GitHub page about the project but ensure that the 10-page final report is self-contained.
+- Year 3: `COMS30051_202x_TB-2: Applied Data Science 2024 (Year 3 UG Coursework Submission)`
+- Year 4: `COMSM0055_202x_TB-2: Applied Data Science 2024 (M-Level UG Coursework Submission)`
+
+Please adhere to the **10+1 page limit**. Any supplemental information or additional 
+results including tables and plots, and references could be linked to a GitHub page about 
+the project but ensure that the 10-page final report is self-contained.
+
+---
 
 # Coursework Brief and Guidance 
 
@@ -47,22 +66,24 @@ Your tasks in this coursework are:
 - Develop and demonstrate models, analysis, and visualisation that will generalize well to new data. 
 - Deliver an informative interim presentation of your work in progress. 
 - Submit a clear and useful report describing your work and your findings. 
-    Write a thoughtful and interesting reflective discussion of the project. 
+- Write a thoughtful and interesting reflective discussion of the project. 
 
-This coursework has three deliverables: 
+## Coursework Deliverables
 
-1. Each group will prepare a short (max. 5 mins) work-in-progress presentation ahead of the penultimate week of the coursework period. Feedback on this presentation will help the group improve their final report. 
+This coursework has **three deliverables**: 
+
+1. **Work-in-progress presentation**: Each group will prepare a short (max. 5 mins) *work-in-progress presentation* ahead of the penultimate week of the coursework period. Feedback on this presentation will help the group improve their final report. 
   - This presentation is worth 10% of the overall coursework mark. 
 
-2. Each group will submit a single written final report at the end of the coursework period (max. 10 sides of A4 including references, submitted in IEEE conference format). 
+2. **Final report**: Each group will submit a single written *final report* at the end of the coursework period (max. 10 sides of A4 including references, submitted in IEEE conference format). 
 -  This final report is worth 90% of the overall coursework mark. 
 -  Note: All members of the group will be given the same mark for the final report. It is up to each team to decide their best strategy to tackle this coursework, i.e. whether to divide the tasks below, or to work together on all tasks. 
 
-3. Each individual will submit a reflective discussion of their work (max. one side of A4 submitted in IEEE conference format), describing their role in the group, what their achievements were, and what they have learned from the course. The quality of this piece of work, combined with their supervisor's assessment of their contribution to the project will determine the final mark that each individual receives. 
+3. **Reflective discussion**: Each individual will submit a *reflective discussion* of their work (max. one side of A4 submitted in IEEE conference format), describing their role in the group, what their achievements were, and what they have learned from the course. The quality of this piece of work, combined with their supervisor's assessment of their contribution to the project will determine the final mark that each individual receives. 
 - Note: This reflective discussion can only increase an individual's mark above that achieved by the group for deliverables 1 and 2. However, in exceptional scenarios such as a group losing an individual or an individual not contributing to the group work, their supervisor's assessment will determine the final mark each individual receives.
 
 
-## Work-in-Progress Presentation:
+### Work-in-Progress Presentation
 
 Your group's presentation should be around 5 mins and should contain the following: 
 - Introduction: The background to the problem tackled by the project. 
@@ -82,7 +103,7 @@ Note: the presentation itself need not be particularly complex. An efficient, cl
 Note: the point is to enable us to give you helpful feedback that will improve your final report. Feel free to ask for advice on specific choices that you are making or approaches that you are considering. An honest “warts-and-all” account is better than a positive but partial story. 
 
 
-## Final Report: 
+### Final Report
 
 Your group's final report should contain the following: 
 
@@ -104,7 +125,7 @@ The marking criteria for the final report are:
 - Presentation: Fluency and coherence of the written text; Quality of the figures, charts, graphs, etc. (15 marks). 
 
 
-## Reflective Discussion: 
+### Reflective Discussion
 
 Each group's report will be marked using the criteria described above and this will be used to set an overall mark for each group. Each individual's mark will be determined based on this overall mark (so it is in everyone's interests to collaborate well) with a potential bonus based on the individual's contribution. This will be assessed partly by your attendance at and contribution to meetings with your group's supervisor and partly based on a 1-page reflective discussion document that describes your role in the group, what your achievements were, and what you have learned from the course. Your reflective discussion could contain the following kinds of material, but the content is up to you: 
 
@@ -121,7 +142,7 @@ The marking criteria for the reflective discussion are:
  - Reflection on achievements and what was learned from the project experience. 
 
 
-## Marking for COMSM0055
+### Marking for COMSM0055
 
 The way in which the marking criteria for all three deliverables are applied for students in the fourth year of an undergraduate degree will be consistent with the elevated expectations associated with an M-level unit. In such cases, work will be expected to exhibit a deep and mature level of analysis and reflection, and the application of tools and methods will be expected to be accomplished and their evaluation and interpretation sophisticated. 
 
@@ -133,13 +154,13 @@ For example, for a solid piece of M-level work:
 -    Etc. 
 
 
-## Marking Guideline
+### Marking Guideline
 
 
 Note: Report will be checked for plagiarism or academic misconduct. Proven plagiarism will result in a coursework grade of 0 for the whole team. Your use of AI during this coursework and report writing should follow University and Faculty Guidelines in which all prompts must be cited. Bear in mind that ChatGPT and other language models struggle to write academic reports to a high standard of 2.1 or above. Hallucinated text will penalise you heavily as it shows a lack of understanding. Note that not referencing the prompts you use represents academic misconduct and poor academic practice! 
 
 
-## Appendix A: Working in a Group 
+## FAQs: Working in a Group 
 
 Q1. How will individual marks be assigned to each member in the group? 
 
