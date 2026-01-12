@@ -1,15 +1,25 @@
-## Table of Contents
-- [Assessment Overview](#assessment-overview)
-- [Assessment Deadlines](#assessment-deadline)
-- [Coursework Brief and Guidance](#coursework-brief-and-guidance)
+---
+layout: default
+title: Assessment Information
+---
 
---- 
+[Home](index) \| [Assessment Information](assessment-information) \| [Refresher](refresher) \| [Blackboard](https://www.ole.bris.ac.uk/ultra/courses/_264181_1/outline) \| [Unit Catalogue](https://upc.bristol.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=25%2F26&unitCode=COMS30050)
 
-# Assessment Overview
+---
+
+# Assessment Information
 
 This unit is assessed entirely through **group coursework**, with individual differentiation achieved via a reflective discussion and supervisor assessment.
 
-# Assessment Deadline 
+
+### Table of Contents
+- [Assessment Deadlines](#assessment-deadline)
+- [Coursework Brief and Guidance](#coursework-brief-and-guidance)
+- [FAQs](#faqs-working-in-a-group)
+
+--- 
+
+## Assessment Deadline 
 
 There are two relevant deadlines:
 
@@ -18,11 +28,11 @@ There are two relevant deadlines:
 |Coursework work-in-progress presentation | 9am–12pm, Thursday 16 April 2026 |
 | Group Final Report + Individual Reflective Discussion | 1pm, Monday 27 April 2026 (to be confirmed) |
 
-### Coursework work-in-progress presentation:
+### Coursework work-in-progress presentation
 
 Each group should prepare a short 5-minute talk discussing the problem they are tackling, their approach, findings so far, planned work, and challenges encountered.
 
-### Final report:
+### Final report
 
 Every student should go to the appropriate submission point for their cohort and submit **one PDF** containing: 
 - a 10-page group report (including references), and
@@ -41,11 +51,11 @@ the project but ensure that the 10-page final report is self-contained.
 
 ---
 
-# Coursework Brief and Guidance 
+## Coursework Brief and Guidance 
 
 We recommend reading this entire page in detail before starting the coursework. 
 
-## Overview
+### Overview
 
 The goal of this coursework is to give you experience of the lifecycle of developing a data science application. The intended learning outcomes for the coursework are the same as those for the unit as a whole: 
 
@@ -68,7 +78,7 @@ Your tasks in this coursework are:
 - Submit a clear and useful report describing your work and your findings. 
 - Write a thoughtful and interesting reflective discussion of the project. 
 
-## Coursework Deliverables
+### Coursework Deliverables
 
 This coursework has **three deliverables**: 
 
@@ -83,7 +93,7 @@ This coursework has **three deliverables**:
 - Note: This reflective discussion can only increase an individual's mark above that achieved by the group for deliverables 1 and 2. However, in exceptional scenarios such as a group losing an individual or an individual not contributing to the group work, their supervisor's assessment will determine the final mark each individual receives.
 
 
-### Work-in-Progress Presentation
+#### Work-in-Progress Presentation
 
 Your group's presentation should be around 5 mins and should contain the following: 
 - Introduction: The background to the problem tackled by the project. 
@@ -103,7 +113,7 @@ Note: the presentation itself need not be particularly complex. An efficient, cl
 Note: the point is to enable us to give you helpful feedback that will improve your final report. Feel free to ask for advice on specific choices that you are making or approaches that you are considering. An honest “warts-and-all” account is better than a positive but partial story. 
 
 
-### Final Report
+#### Final Report
 
 Your group's final report should contain the following: 
 
@@ -125,7 +135,7 @@ The marking criteria for the final report are:
 - Presentation: Fluency and coherence of the written text; Quality of the figures, charts, graphs, etc. (15 marks). 
 
 
-### Reflective Discussion
+#### Reflective Discussion
 
 Each group's report will be marked using the criteria described above and this will be used to set an overall mark for each group. Each individual's mark will be determined based on this overall mark (so it is in everyone's interests to collaborate well) with a potential bonus based on the individual's contribution. This will be assessed partly by your attendance at and contribution to meetings with your group's supervisor and partly based on a 1-page reflective discussion document that describes your role in the group, what your achievements were, and what you have learned from the course. Your reflective discussion could contain the following kinds of material, but the content is up to you: 
 

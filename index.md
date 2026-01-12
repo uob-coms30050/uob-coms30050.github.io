@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Course Details
+title: Home
 ---
 
 [Home](index) \| [Assessment Information](assessment-information) \| [Refresher](refresher) \| [Blackboard](https://www.ole.bris.ac.uk/ultra/courses/_264181_1/outline) \| [Unit Catalogue](https://upc.bristol.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=25%2F26&unitCode=COMS30050)
