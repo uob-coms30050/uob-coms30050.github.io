@@ -3,7 +3,7 @@ layout: default
 title: Refresher
 ---
 
-[Home](index) \| [Assessment Information](assessment-information) \| [Refresher](refresher) \| [Blackboard](https://www.ole.bris.ac.uk/ultra/courses/_264181_1/outline) \| [Unit Catalogue](https://upc.bristol.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=25%2F26&unitCode=COMS30050)
+[Home](index) \| [Assessment Information](assessment-information) \| [Refresher](refresher) \| [Blackboard Page](https://www.ole.bris.ac.uk/ultra/courses/_264181_1/outline) \| [Blackboard Forum](https://www.ole.bris.ac.uk/ultra/courses/_264181_1/engagement) \| [Unit Catalogue](https://upc.bristol.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=25%2F26&unitCode=COMS30050)
 
 ---
 
@@ -20,7 +20,7 @@ This page collects optional refresher materials to help you revise prerequisite 
 
 ## Python Refresher
 
-The [Jean Golding Institute (JGI)](https://www.bristol.ac.uk/golding/) at the University of Bristol offers excellent training materials and resources on data science and engineering. If your Python knowledge is a bit rusty, start with the beginner and intermediate resources below. You can explore the advanced topics later in the term.
+The [Jean Golding Institute (JGI)](https://www.bristol.ac.uk/golding/) at the University of Bristol offers excellent training materials and resources on data science and engineering. If your Python knowledge is a bit rusty, start with the _beginner_ and _intermediate_ resources below. You can explore the _advanced_ topics later in the term.
 
 ### Resources
 
