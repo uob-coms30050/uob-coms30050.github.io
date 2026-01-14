@@ -26,7 +26,7 @@ There are two relevant deadlines:
 | Assessment Component | Date and Time |
 |----------------------|---------------|
 |Coursework work-in-progress presentation | 9am–12pm, Thursday 16 April 2026 |
-| Group Final Report + Individual Reflective Discussion | 1pm, Monday 27 April 2026 (to be confirmed) |
+| Group Final Report + Individual Reflective Discussion | 1pm, Tuesday 28 April 2026  |
 
 ### Coursework work-in-progress presentation
 
