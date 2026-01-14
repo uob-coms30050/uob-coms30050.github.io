@@ -32,17 +32,17 @@ Please read through all the information on this page and skim through the [refre
 ## Schedule 
 
 | Week | Topic | Lecturers | Tuesday Lecture<br>(Queens 1.15 SLT; 9am–11am) | Thursday Lab<br>(Queens 1.80; 9am–11am) |
-|----------------|------|-------|-----------|-------------------------------------------|-------------------------------------|
+|----------------|-------|-----------|-------------------------------------------|-------------------------------------|
 | 13 (w/c 19-Jan-2026) | Introduction and Data Ingress | Nirav Ajmeri | Welcome; Data Ingress; Web Scraping | Web Scraping with Beautiful Soup and REST API |
 | 14 (w/c 26-Jan-2026) | Data Ethics and Data Privacy | Nirav Ajmeri | Data Privacy; Data Ethics | Familiarising with coursework datasets and exploring data privacy and ethics |
 | 15 (w/c 2-Feb-2026) | Data Management and Data Wrangling | Seth Bullock | Data Management; Data Wrangling<br>Videos: Neo4j and CASA Wrangling | Graph database and Neo4j |
 | 16 (w/c 9-Feb-2026) | Data Fusion and Data Exploration | Seth Bullock | Data Exploration; Data Fusion<br>Videos: Gapminder Demo | Dimensionality Reduction Lab |
 | 17 (w/c 16-Feb-2026) | Data Visualisation and Data Science in Production | Nirav Ajmeri; Seth Bullock | Data Visualisation; Data Science in Production<br>Videos: Data Science in Production | Visualisation with Matplotlib, Seaborn, and Plotly.js Lab |
 | 18 (w/c 23-Feb-2026) | - | - | - | Computer Science Consolidation Week |
-| | | | | **Tuesday Show and Tell and Drop-In**<br>**(Queens 1.15 SLT; 10am–11am)** | **Thursday Supervision**<br>**(9am–11am)** |
+| | | | **Tuesday Show and Tell and Drop-In**<br>**(Queens 1.15 SLT; 10am–11am)** | **Thursday Supervision**<br>**(9am–11am)** |
 | 19 (w/c 2-Mar-2026) | Group CW Starts | Nirav Ajmeri; Seth Bullock | Coursework Introduction and Q&A | Supervision Meeting |
 | 20 (w/c 9-Mar-2026) | Group CW Continues | Guest Speaker | Show and Tell | Supervision Meeting |
-| 16-Mar-2026 | 21 | Group CW Continues | Nirav Ajmeri; Seth Bullock | Coursework Q&A | Supervision Meeting |
+| 21 (w/c 16-Mar-2026) | Group CW Continues | Nirav Ajmeri; Seth Bullock | Coursework Q&A | Supervision Meeting |
 | (w/c 23-Mar-2026) | **SPRING VACATION** |  |  |  |
 | (w/c 30-Mar-2026) | **SPRING VACATION** |  |  |  |
 | (w/c 6-Apr-2026)  | **SPRING VACATION** |  |  |  |
@@ -50,7 +50,7 @@ Please read through all the information on this page and skim through the [refre
 | 23 (w/c 20-Apr-2026) | Group CW Supervision Ends | Nirav Ajmeri; Seth Bullock | Coursework Q&A | Supervision Meeting (Queens 1.80) |
 | 24 (w/c 27-Apr-2026) |  |  |  |  **COURSEWORK DUE**<br>*1PM on Tuesday, 28-Apr-2026*  |
 
-*Note: Show and Tell sessions will include presentations from and interviews with guest data science practitioners from academia and beyond...
+*Note*: _Show and Tell_ sessions will include presentations from and interviews with guest data science practitioners from academia and beyond...
 
 ### Important Dates: 
 - **Coursework team registration**: 5pm on Thursday, 12-Feb-2026 
