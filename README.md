@@ -9,4 +9,4 @@ For detailed course information, please refer to the [University of Bristol Unit
 - Nirav Ajmeri - Unit Lecturer & Unit Director: [niravajmeri.github.io](https://niravajmeri.github.io)
 - Seth Bullock - Unit Lecturer: [seis.bristol.ac.uk/~sb15704/](https://seis.bristol.ac.uk/~sb15704/)
 
-For full details on the course schedule, unit structure, and contact information, please refer to [course-details.md](course-details.md).
+For full details on the unit schedule, unit structure, and contact information, please refer to [unit information](index.md).
