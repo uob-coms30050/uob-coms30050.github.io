@@ -24,8 +24,8 @@ Please read through all the information on this page and skim through the [refre
 ### Table of Contents
 - [Unit Schedule](#schedule)
 - [Important Dates](#important-dates)
-- [Unit Structure and Coursework Details](unit-structure.md)
-- [Unit Contacts](unit-contacts.md)
+- [Unit Structure and Coursework Details](#navigating-the-course)
+- [Unit Contacts](#unit-contacts)
 
 ---
 
