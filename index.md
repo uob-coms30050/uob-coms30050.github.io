@@ -33,7 +33,7 @@ Please read through all the information on this page and skim through the [refre
 
 | Week | Topic | Lecturers | Tuesday Lecture<br>(Queens 1.15 SLT; 9am–11am) | Thursday Lab<br>(Queens 1.80; 9am–11am) |
 |----------------|-------|-----------|-------------------------------------------|-------------------------------------|
-| 13 (w/c 19-Jan-2026) | Introduction and Data Ingress | Nirav Ajmeri | Welcome; Data Ingress; Web Scraping | Web Scraping with Beautiful Soup and REST API |
+| 13 (w/c 19-Jan-2026) | Introduction and Data Ingress | Nirav Ajmeri | [Welcome](lectures/L1-1-welcome.pdf); [Data Ingress](lectures/L1-2-data-ingress.pdf); [Web Scraping](lectures/L1-3-web-scraping.pdf) | Web Scraping with Beautiful Soup and REST API |
 | 14 (w/c 26-Jan-2026) | Data Ethics and Data Privacy | Nirav Ajmeri | Data Privacy; Data Ethics | Familiarising with coursework datasets and exploring data privacy and ethics |
 | 15 (w/c 2-Feb-2026) | Data Management and Data Wrangling | Seth Bullock | Data Management; Data Wrangling<br>Videos: Neo4j and CASA Wrangling | Graph database and Neo4j |
 | 16 (w/c 9-Feb-2026) | Data Fusion and Data Exploration | Seth Bullock | Data Exploration; Data Fusion<br>Videos: Gapminder Demo | Dimensionality Reduction Lab |
