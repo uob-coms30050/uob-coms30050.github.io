@@ -39,7 +39,7 @@ Note for the API notebook:
 - To use it, rename `sampleconfig.cfg` to `myconfig.cfg` and replace the API key in the file with your key from The Guardian.
 
 
-### Files 
+### Files (Login to Blackboard to Download)
 - [Lab 1 Task Specification](https://www.ole.bris.ac.uk/bbcswebdav/xid-74800423_2)
 - [1A-web_scraping_beautiful_soup-initial.ipynb](https://www.ole.bris.ac.uk/bbcswebdav/xid-74800425_2)
 - [1B_web_scraping_api-initial.ipynb](https://www.ole.bris.ac.uk/bbcswebdav/xid-74800426_2)
