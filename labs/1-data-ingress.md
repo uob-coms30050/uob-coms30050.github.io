@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Week 1 Lab
+title: Lab 1
 ---
 
 [Home](index) \| [Assessment Information](assessment-information) \| [Refresher](refresher) \| [Blackboard Page](https://www.ole.bris.ac.uk/ultra/courses/_264181_1/outline) \| [Blackboard Forum](https://www.ole.bris.ac.uk/ultra/courses/_264181_1/engagement) \| [Unit Catalogue](https://upc.bristol.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=25%2F26&unitCode=COMS30050)
 
 ---
 
-# Week 1 Lab - Data Scrapping from the Web
+# Lab 1: Data Scrapping from the Web
 
 This lab builds on the lectures on Data Ingress and involves collecting data from the web via web scraping and using web APIs.
 
