@@ -39,8 +39,8 @@ Note for the API notebook:
 - To use it, rename `sampleconfig.cfg` to `myconfig.cfg` and replace the API key in the file with your key from The Guardian.
 
 
-### Files (Login to Blackboard to Download)
-- [Lab 1 Task Specification](https://www.ole.bris.ac.uk/bbcswebdav/xid-74800423_2)
-- [1A-web_scraping_beautiful_soup-initial.ipynb](https://www.ole.bris.ac.uk/bbcswebdav/xid-74800425_2)
-- [1B_web_scraping_api-initial.ipynb](https://www.ole.bris.ac.uk/bbcswebdav/xid-74800426_2)
-- [sampleconfig.cfg](https://www.ole.bris.ac.uk/bbcswebdav/xid-74800428_2)
+### Files (Login to SharePoint)
+- [Lab 1 Task Specification](https://uob.sharepoint.com/:b:/r/teams/UnitTeams-COMS30050-2025-26-TB-2-A/Shared%20Documents/General/1-datascrapping-with-hints.pdf?csf=1&web=1&e=mtpvIH)
+- [1A-web_scraping_beautiful_soup-initial.ipynb](https://uob.sharepoint.com/:u:/r/teams/UnitTeams-COMS30050-2025-26-TB-2-A/Shared%20Documents/General/1A-web_scraping_beautiful_soup-initial.ipynb?csf=1&web=1&e=6frgVu)
+- [1B_web_scraping_api-initial.ipynb](https://uob.sharepoint.com/:u:/r/teams/UnitTeams-COMS30050-2025-26-TB-2-A/Shared%20Documents/General/1B_web_scraping_api-initial.ipynb?csf=1&web=1&e=0DniiV)
+- [sampleconfig.cfg](https://uob.sharepoint.com/:u:/r/teams/UnitTeams-COMS30050-2025-26-TB-2-A/Shared%20Documents/General/sampleconfig.cfg?csf=1&web=1&e=bXnkAK)
