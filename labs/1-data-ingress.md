@@ -44,3 +44,7 @@ Note for the API notebook:
 - [1A-web_scraping_beautiful_soup-initial.ipynb](https://uob.sharepoint.com/:u:/r/teams/UnitTeams-COMS30050-2025-26-TB-2-A/Shared%20Documents/General/1A-web_scraping_beautiful_soup-initial.ipynb?csf=1&web=1&e=6frgVu)
 - [1B_web_scraping_api-initial.ipynb](https://uob.sharepoint.com/:u:/r/teams/UnitTeams-COMS30050-2025-26-TB-2-A/Shared%20Documents/General/1B_web_scraping_api-initial.ipynb?csf=1&web=1&e=0DniiV)
 - [sampleconfig.cfg](https://uob.sharepoint.com/:u:/r/teams/UnitTeams-COMS30050-2025-26-TB-2-A/Shared%20Documents/General/sampleconfig.cfg?csf=1&web=1&e=bXnkAK)
+
+#### Solutions
+- [1A_web_scraping_beautiful_soup-solution.ipynb](https://uob.sharepoint.com/:u:/r/teams/UnitTeams-COMS30050-2025-26-TB-2-A/Shared%20Documents/General/1A_web_scraping_beautiful_soup-solution.ipynb?csf=1&web=1&e=QewbYt)
+- [1B_web_scraping_api-solution.ipynb](https://uob.sharepoint.com/:u:/r/teams/UnitTeams-COMS30050-2025-26-TB-2-A/Shared%20Documents/General/1B_web_scraping_api-solution.ipynb?csf=1&web=1&e=dJM6kK)
