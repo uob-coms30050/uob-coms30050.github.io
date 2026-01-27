@@ -7,15 +7,15 @@ title: Lab 2
 
 ---
 
-# Lab 2: Exploring data privacy and ethics
+# Lab 2: Exploring Data Privacy and Ethics
 
 This lab builds on the lectures on data privacy and data ethics and will involve understanding and discussing privacy and ethics issues with datasets for data projects.  This is also an opportunity for you all to start thinking about what dataset you would want to work with for the coursework and find groupmates with similar interests.
 
 ## Before the Lab
 
-To prepare for the lab session, revisit Week #14 lectures and familiarise yourself with the datasets that we will use for the coursework (to be made available). 
+To prepare for the lab session, revisit Week #14 lectures and familiarise yourself with the datasets that we will use for the coursework *(datasets to be finalised)*. 
 
-The description of the datasets is under the "Data Projects" page accessible through the navigation bar on the top of this page. 
+The description of the datasets is under the [Data Projects](data-projects). 
 It is completely understandable that you may not be able to go through all datasets before the lab. 
 Skim through the list of projects and datasets, and try to go through one or two datasets that look interesting to you in more detail. 
 Think about privacy and ethics concerns that may arise with those datasets.
