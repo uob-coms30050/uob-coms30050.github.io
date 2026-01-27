@@ -15,7 +15,7 @@ This lab builds on the lectures on data privacy and data ethics and will involve
 
 To prepare for the lab session, revisit Week #14 lectures and familiarise yourself with the datasets that we will use for the coursework *(datasets to be finalised)*. 
 
-The description of the datasets is under the [Data Projects](data-projects). 
+The description of the datasets is under the [Data Projects](../data-projects). 
 It is completely understandable that you may not be able to go through all datasets before the lab. 
 Skim through the list of projects and datasets, and try to go through one or two datasets that look interesting to you in more detail. 
 Think about privacy and ethics concerns that may arise with those datasets.
