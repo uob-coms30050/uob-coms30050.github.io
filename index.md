@@ -10,7 +10,8 @@ title: Home
 
 ---
 #### News
-- <span style="color:blue">28 Jan 2026.</span Partial list of [data projects](data-projects) available
+
+- <span style="color:blue">28 Jan 2026.</span> Partial list of [data projects](data-projects) available
 ---
 
 This unit runs for Year 3 and Year 4 undergraduates on the CS and Eng Maths single honours and joint honours degree programmes. About 100 students in total.
