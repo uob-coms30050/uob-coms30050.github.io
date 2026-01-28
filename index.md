@@ -6,8 +6,12 @@ title: Home
 [Home](index) \| [Assessment Information](assessment-information) \| [Refresher](refresher) \| [Blackboard Page](https://www.ole.bris.ac.uk/ultra/courses/_264181_1/outline) \| [Blackboard Forum](https://www.ole.bris.ac.uk/ultra/courses/_264181_1/engagement) \| [Unit Catalogue](https://upc.bristol.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=25%2F26&unitCode=COMS30050)
 
 ---
-
 # Welcome to Applied Data Science (COMS30050/COMS30051/COMSM0055)
+
+---
+#### News
+- <span style="color:blue">28 Jan 2026.</span Partial list of [data projects](data-projects) available
+---
 
 This unit runs for Year 3 and Year 4 undergraduates on the CS and Eng Maths single honours and joint honours degree programmes. About 100 students in total.
 
