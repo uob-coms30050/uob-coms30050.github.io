@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lab 2
+title: Lab 3
 ---
 
 [Home](../index) \| [Assessment Information](../assessment-information) \| [Refresher](../refresher) \| [Blackboard Page](https://www.ole.bris.ac.uk/ultra/courses/_264181_1/outline) \| [Blackboard Forum](https://www.ole.bris.ac.uk/ultra/courses/_264181_1/engagement) \| [Unit Catalogue](https://upc.bristol.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=25%2F26&unitCode=COMS30050)
@@ -9,7 +9,7 @@ title: Lab 2
 
 ---
 
-# Lab 3: Exploring Graph Database Using Neo4j
+# Lab 3: Exploring Graph Database Using Neo4j (To be finalised)
 
 This lab builds on the lectures on Data Management and Wrangling. The lab will involve exploring the Paradise Papers graph database using Neo4j. 
 
