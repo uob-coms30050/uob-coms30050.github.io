@@ -27,11 +27,7 @@ This lab builds on the lectures on Data Management and Wrangling. The lab will i
 To prepare for Lab 3, follow these steps before Thursday (give yourself plenty of time):
 
 - Revisit the lecture on Data Management
-- *Important:* Watch Luis Vaquero's Neo4j video [13 mins]:
-
-<video width="640" height="480" controls>
-  <source src="https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS30050_2025_TB-2/lectures/Week%203%20Materials/GraphDBs.mp4" type="video/mp4">
-</video>
+- *Important:* Watch Luis Vaquero's Neo4j video [13 mins]: <https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS30050_2025_TB-2/lectures/Week%203%20Materials/GraphDBs.mp4>
 
 - Get acquainted with Neo4j and the Cypher Query Language
   - <https://neo4j.com/docs/getting-started/cypher-intro/>
