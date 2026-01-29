@@ -5,6 +5,7 @@ title: Lab 2
 
 [Home](../index) \| [Assessment Information](../assessment-information) \| [Refresher](../refresher) \| [Blackboard Page](https://www.ole.bris.ac.uk/ultra/courses/_264181_1/outline) \| [Blackboard Forum](https://www.ole.bris.ac.uk/ultra/courses/_264181_1/engagement) \| [Unit Catalogue](https://upc.bristol.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=25%2F26&unitCode=COMS30050)
 
+[Data Projects](../data-projects)
 ---
 
 # Lab 2: Exploring Data Privacy and Ethics
@@ -14,8 +15,9 @@ This lab builds on the lectures on data privacy and data ethics and will involve
 ## Before the Lab
 
 To prepare for the lab session, revisit Week #14 lectures and familiarise yourself with the datasets that we will use for the coursework *(datasets to be finalised)*. 
+- Lecture slides: [Data Privacy](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS30050_2025_TB-2/lectures/L2-1-data-privacy.pdf); [Data Ethics](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS30050_2025_TB-2/lectures/L2-2-data-ethics.pdf)
+- Description of the datasets is under [Data Projects](../data-projects) 
 
-The description of the datasets is under the [Data Projects](../data-projects). 
 It is completely understandable that you may not be able to go through all datasets before the lab. 
 Skim through the list of projects and datasets, and try to go through one or two datasets that look interesting to you in more detail. 
 Think about privacy and ethics concerns that may arise with those datasets.
