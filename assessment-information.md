@@ -42,8 +42,8 @@ The 10-page report must be identical across members of the same group. The refle
 
 To submit, please head to:
 
-- Year 3: `COMS30051_202x_TB-2: Applied Data Science 2024 (Year 3 UG Coursework Submission)`
-- Year 4: `COMSM0055_202x_TB-2: Applied Data Science 2024 (M-Level UG Coursework Submission)`
+- Year 3: `COMS30051_202x_TB-2: Applied Data Science 202x (Year 3 UG Coursework Submission)`
+- Year 4: `COMSM0055_202x_TB-2: Applied Data Science 202x (M-Level UG Coursework Submission)`
 
 Please adhere to the **10+1 page limit**. Any supplemental information or additional 
 results including tables and plots, and references could be linked to a GitHub page about 
