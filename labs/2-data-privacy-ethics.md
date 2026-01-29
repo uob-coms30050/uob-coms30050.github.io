@@ -22,13 +22,29 @@ Think about privacy and ethics concerns that may arise with those datasets.
 
 Note that some projects may involve creating a dataset. For those datasets, you can make assumptions during the lab. The data projects list is still evolving; some projects may be added or deleted.
 
+## Lab Task and Padlets
+
+*Task tldr:* revisit the slides; look at the datasets individually; think about privacy (attributes and sensitivity; dislosure type; attacks; anonymity) and ethics (implications); post your findings on the padlet; discuss.
+
+#### Padlets
+
+- Dataset 1: <https://padlet.com/uob/ads-2025-26-data-privacy-and-ethics-lab-dataset-1-2u2w9zsi9zmi14fn>
+- Dataset 2: <https://padlet.com/uob/ads-2025-26-data-privacy-and-ethics-lab-dataset-2-obkproa4mfig0xsa>
+- Dataset 3: <https://padlet.com/uob/ads-2025-26-data-privacy-and-ethics-lab-dataset-3-vxvpenljjc5q6yor>
+- Dataset 4: <https://padlet.com/uob/ads-2025-26-data-privacy-and-ethics-lab-dataset-4-6v135wi2unrzkppc>
+- Dataset 5: <https://padlet.com/uob/ads-2025-26-data-privacy-and-ethics-lab-dataset-5-dtpxql6glfx98kzq>
+- Dataset 6: <https://padlet.com/uob/ads-2025-26-data-privacy-and-ethics-lab-dataset-6-4i0wb332kgj9lqps>
+- Dataset 7: <https://padlet.com/uob/ads-2025-26-data-privacy-and-ethics-lab-dataset-7-6nukyzrjghty35oq>
+- Dataset 8: <https://padlet.com/uob/ads-2025-26-data-privacy-and-ethics-lab-dataset-8-xk9svl0oodq7eu4u>
+
+
 ## Guidance on Lab Tasks
 
 ### How to start
 
 - Open the data privacy and data ethics slide decks
-- Open a dataset. Look at the format and the attributes 
-
+- Open a dataset. Look at the format and the attributes
+ 
 ### Possible concerns when data is considered on its own
 
 - Is the data anonymized or does it contain any personally identifying information (PII)?
