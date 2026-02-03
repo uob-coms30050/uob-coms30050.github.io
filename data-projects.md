@@ -72,3 +72,69 @@ The NYC Taxi and Limousine Commission (TLC) Trip Record Data is a public dataset
 - Example project: <https://toddwschneider.com/posts/analyzing-1-1-billion-nyc-taxi-and-uber-trips-with-a-vengeance/>
 
 
+## Project 9. Explaining Privacy Decisions  
+Social networks enable users to share text and image content with others via online interactions and thus help users maintain their social relationships. Whereas users conveniently share content online they often misjudge harms associated with sharing the content.   
+This project involves (1) analysing an image dataset containing 22k images annotated with 68 privacy attributes, and (2) developing a privacy explanation framework. The explanations framework will include developing an image analysis module to identify personal information attributes such as skin colour, gender, or presence or absence of credit card number in an image and generating recommendations based on the identified attributes whether an image should or should not be shared online.   
+
+- Dataset: <https://github.com/tribhuvanesh/vpa>   
+ 
+## Project 10. Smart Home Product Usecase Dataset  
+In this project, you will work with a smarthome dataset that includes 1823 smart home usecase scenarios produced by 323 Amazon MTurk workers working alone or in teams of four. A subset of these usecase scenarios are rated for creativity --- novel and usefulness. The dataset includes the workers’ demographics and personality traits measured using the DISC personality model survey instrument.   
+
+- Dataset: <https://zenodo.org/record/4308066#.YB_48uqnxKs>   
+
+Whereas it is easy to collect scenarios via crowdsourcing, collecting scenarios that are creative is non-trivial. Manually rating the scenarios for creativity is also challenging. How could we predict novelty and usefulness of a scenario? Crowd workers work on their tasks independently and thus many scenarios they produce are identical. How could we group similar scenarios and summarize the scenarios produced? Could we cluster scenario or leverage topic-models? How could we stimulate crowd workers to produce scenarios that are creative and different from the ones proposed earlier?  
+ 
+## Project 11. Open Source Intelligence (OSINT) Projects
+In this task you will gather and analyse data from Open Source Intelligence (OSINT) practitioners who build and analyse open source data sets in order to address issues around humanitarian disasters and human security (e.g., weapons tracking, war, terrorism and oppression). Possible project ideas might include building an advanced visualization portal for navigating and making sense of a complex data set (e.g., a data portal for representing how national spending on weapons has changed over time or for tracking arms trades between countries, or for visualizing destroyed villages in Myanmar), linking open source datasets to contextual information in order to improve sense making (e.g., connecting data on weapons trafficking to data on military conflict or relating national military spending to spending on aid or other sectors), or developing machine learning models to identify and verify trends in the data or automate data extraction (e.g., training neural networks to detect burned villages from satellite images; NLP models trained to automatically extract military expenditure information from open data sources).
+
+### Example OSINT practitioner #1: SIPRI (<https://www.sipri.org/databases>)
+_Tracking international arms deals and military spending_
+
+- Sample datasets: <https://www.sipri.org/databases/milex>
+
+### Example OSINT practitioner #2: Centre for Information Resilience (<https://www.info-res.org>)
+**_Detecting of destroyed areas in Myanmar, Rakhine State_ (The Ocelli Project <https://ocelli.c4ads.org/>)**
+Rakhine manually observed and documented apparent village destruction in Rakhine State between 2016 and 2020 using publicly available satellite imagery. This analysis demonstrates the scale, pace, and geographic range of the systematic displacement and genocide of the Rohingya ethnic minority. It represents the most comprehensive available mapping of forced displacement in Rakhine State.
+
+- Sample dataset: <https://docs.google.com/spreadsheets/d/1lhrInkY5qS6lahY9caSsD8osraUsAYFUd9tI_6PfCl8/edit?usp=sharing>
+
+**_Mapping of ongoing burning of villages in Myanmar (Sep 2021 - Present)_**
+Myanmar Witness uses satellite imagery, verified footage and NASA FIRMS data to document and investigate where buildings and villages have been destroyed by fire in possible human rights incidents.
+
+- The dataset is the data behind this map showing where and when each of those events occurred and linking to the relevant media where verified and safe to do so: <https://www.myanmarwitness.org/fire-map>
+
+**_Monitoring of the conflict in Ukraine_**
+The project Eyes on Russia of the Centre of Information Resilience collects, verifies, analyses, archives and shares information about conflict events by scanning a range of social media platforms in Ukrainian, Russian and English. Data is collected on civilian casualties, damage to health, educational, transport, utilities and other forms of infrastructure, and the activities of the Russian military and local allies.
+
+- The dataset: Archived videos, photos, satellite imagery or other media related to events resulting from Russia’s invasion of Ukraine that have been geolocated and analysed by the Open Source community and reviewed by CIR. Entries that do not risk any individuals or Ukrainian positions are published on the Eyes on Russia map: <https://eyesonrussia.org/>
+
+## Project 12. Exploring Timeseries Atmospheric Data from the Met Office
+This dataset contains hourly atmospheric data for 12 locations for 38 years, as produced by the ERA5 model. The group working on this project can initially examine the data and find ways to visualise it (from simple timeseries plots to something like this), as well as examining the relationships between different variables (temperature, precipitation, and wind). Further, they could then use statistical or ML models to attempt any of the following:
+
+1. For a given time, predict one of the atmospheric variables, when given all the other variables (such as with a neural network or random forest)
+2. Given past values of a variable, predict future values (such as with a recurring neural network)
+3. Given current conditions in all but one location, attempt to approximate conditions in the remaining location
+
+- Dataset: <https://zenodo.org/records/10624903>
+(Problem Owner: Theo Xirouchaki, Met Office)
+
+## Project 13. Exploring Bristol Open Data
+
+Bristol City Council provides an open data portal (<https://opendata.bristol.gov.uk/>) with datasets describing transport, air quality, housing, crime, population, and environmental conditions in the city.
+
+In this project, students will select one or more Bristol datasets and analyse urban patterns over time or across neighbourhoods. Possible topics include traffic and air pollution, spatial patterns in crime, access to services, or relationships between housing and deprivation. The project will involve data cleaning, exploratory analysis, and visualisation (e.g. maps and time series), with optional use of statistical or machine learning methods to identify trends and relationships. The aim is to gain experience working with real-world local government data and interpreting results in a policy-relevant context.
+
+- Data portal: <https://opendata.bristol.gov.uk/>
+
+## Project 14. Analysing Air Quality Using OpenAQ Data
+
+OpenAQ provides open, real-time and historical air quality measurements from monitoring stations across the world. In this project, students will analyse pollution levels (e.g. PM2.5, NO2, O3) over time and across locations to identify long-term trends, seasonal patterns, and extreme pollution events. The project will involve cleaning time-series data and producing visualisations and simple predictive models to understand how air quality varies spatially and temporally.
+
+- Data portal: <https://openaq.org/>
+
+## Project 15. Analysing Cost of Living and Inflation Using ONS Data
+
+The UK Office for National Statistics (ONS) publishes regularly updated datasets on prices, household expenditure, and inflation across regions and product categories. In this project, students will explore how the cost of living has changed over time and how inflation differs between regions or types of goods. The analysis will combine data cleaning, exploratory analysis, and visualisation, with optional use of statistical or machine learning methods to model trends and identify groups most affected by rising prices.
+
+- Data portal: <https://www.ons.gov.uk/economy/inflationandpriceindices>
