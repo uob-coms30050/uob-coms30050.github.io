@@ -79,7 +79,7 @@ This project involves (1) analysing an image dataset containing 22k images annot
 - Dataset: <https://github.com/tribhuvanesh/vpa>   
  
 ## Project 10. Smart Home Product Usecase Dataset  
-In this project, you will work with a smarthome dataset that includes 1823 smart home usecase scenarios produced by 323 Amazon MTurk workers working alone or in teams of four. A subset of these usecase scenarios are rated for creativity --- novel and usefulness. The dataset includes the workers’ demographics and personality traits measured using the DISC personality model survey instrument.   
+In this project, you will work with a smarthome dataset that includes 1823 smart home usecase scenarios produced by 323 Amazon MTurk workers working alone or in teams of four. A subset of these usecase scenarios are rated for creativity --- novel and usefulness. The dataset includes the workers' demographics and personality traits measured using the DISC personality model survey instrument.   
 
 - Dataset: <https://zenodo.org/record/4308066#.YB_48uqnxKs>   
 
@@ -107,7 +107,7 @@ Myanmar Witness uses satellite imagery, verified footage and NASA FIRMS data to 
 **_Monitoring of the conflict in Ukraine_**
 The project Eyes on Russia of the Centre of Information Resilience collects, verifies, analyses, archives and shares information about conflict events by scanning a range of social media platforms in Ukrainian, Russian and English. Data is collected on civilian casualties, damage to health, educational, transport, utilities and other forms of infrastructure, and the activities of the Russian military and local allies.
 
-- The dataset: Archived videos, photos, satellite imagery or other media related to events resulting from Russia’s invasion of Ukraine that have been geolocated and analysed by the Open Source community and reviewed by CIR. Entries that do not risk any individuals or Ukrainian positions are published on the Eyes on Russia map: <https://eyesonrussia.org/>
+- The dataset: Archived videos, photos, satellite imagery or other media related to events resulting from Russia's invasion of Ukraine that have been geolocated and analysed by the Open Source community and reviewed by CIR. Entries that do not risk any individuals or Ukrainian positions are published on the Eyes on Russia map: <https://eyesonrussia.org/>
 
 ## Project 12. Exploring Timeseries Atmospheric Data from the Met Office
 This dataset contains hourly atmospheric data for 12 locations for 38 years, as produced by the ERA5 model. The group working on this project can initially examine the data and find ways to visualise it (from simple timeseries plots to something like this), as well as examining the relationships between different variables (temperature, precipitation, and wind). Further, they could then use statistical or ML models to attempt any of the following:
@@ -123,18 +123,19 @@ This dataset contains hourly atmospheric data for 12 locations for 38 years, as 
 
 Bristol City Council provides an open data portal (<https://opendata.bristol.gov.uk/>) with datasets describing transport, air quality, housing, crime, population, and environmental conditions in the city.
 
-In this project, students will select one or more Bristol datasets and analyse urban patterns over time or across neighbourhoods. Possible topics include traffic and air pollution, spatial patterns in crime, access to services, or relationships between housing and deprivation. The project will involve data cleaning, exploratory analysis, and visualisation (e.g. maps and time series), with optional use of statistical or machine learning methods to identify trends and relationships. The aim is to gain experience working with real-world local government data and interpreting results in a policy-relevant context.
+In this project, students will select one or more Bristol datasets and analyse urban patterns over time or across neighbourhoods. Possible topics include traffic and air pollution, spatial patterns in crime, access to services, or relationships between housing and deprivation.
 
 - Data portal: <https://opendata.bristol.gov.uk/>
 
 ## Project 14. Analysing Air Quality Using OpenAQ Data
 
-OpenAQ provides open, real-time and historical air quality measurements from monitoring stations across the world. In this project, students will analyse pollution levels (e.g. PM2.5, NO2, O3) over time and across locations to identify long-term trends, seasonal patterns, and extreme pollution events. The project will involve cleaning time-series data and producing visualisations and simple predictive models to understand how air quality varies spatially and temporally.
+OpenAQ provides open, real-time and historical air quality measurements from monitoring stations across the world. In this project, students will analyse pollution levels (e.g. PM2.5, NO2, O3) over time and across locations to identify long-term trends, seasonal patterns, and extreme pollution events. 
+A potential project using the OpenAQ data will involve cleaning time-series data and producing visualisations and predictive models to understand how air quality varies spatially and temporally.
 
 - Data portal: <https://openaq.org/>
 
 ## Project 15. Analysing Cost of Living and Inflation Using ONS Data
 
-The UK Office for National Statistics (ONS) publishes regularly updated datasets on prices, household expenditure, and inflation across regions and product categories. In this project, students will explore how the cost of living has changed over time and how inflation differs between regions or types of goods. The analysis will combine data cleaning, exploratory analysis, and visualisation, with optional use of statistical or machine learning methods to model trends and identify groups most affected by rising prices.
+The UK Office for National Statistics (ONS) publishes regularly updated datasets on prices, household expenditure, and inflation across regions and product categories. As a potential project using the ONS data, students will explore how the cost of living has changed over time and how inflation differs between regions or types of goods. The analysis will combine data cleaning, exploratory analysis, and visualisation, with use of statistical or machine learning methods to model trends and identify groups most affected by rising prices.
 
 - Data portal: <https://www.ons.gov.uk/economy/inflationandpriceindices>

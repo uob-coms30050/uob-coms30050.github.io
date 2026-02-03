@@ -85,7 +85,7 @@ This coursework has **three deliverables**:
 1. **Work-in-progress presentation**: Each group will prepare a short (max. 5 mins) *work-in-progress presentation* ahead of the penultimate week of the coursework period. Feedback on this presentation will help the group improve their final report. 
   - This presentation is worth 10% of the overall coursework mark. 
 
-2. **Final report**: Each group will submit a single written *final report* at the end of the coursework period (max. 10 sides of A4 including references, submitted in IEEE conference format). 
+2. **Final report**: Each group will submit a single written *final report* at the end of the coursework period (max. 10 sides of A4 including references, submitted in IEEE conference format:  <https://www.overleaf.com/latex/templates/ieee-conference-template/grfzhhncsfqn>). 
 -  This final report is worth 90% of the overall coursework mark. 
 -  Note: All members of the group will be given the same mark for the final report. It is up to each team to decide their best strategy to tackle this coursework, i.e. whether to divide the tasks below, or to work together on all tasks. 
 
