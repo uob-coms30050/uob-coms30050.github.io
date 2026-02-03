@@ -5,13 +5,18 @@ title: Lab 3
 
 [Home](../index) \| [Assessment Information](../assessment-information) \| [Refresher](../refresher) \| [Blackboard Page](https://www.ole.bris.ac.uk/ultra/courses/_264181_1/outline) \| [Blackboard Forum](https://www.ole.bris.ac.uk/ultra/courses/_264181_1/engagement) \| [Unit Catalogue](https://upc.bristol.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=25%2F26&unitCode=COMS30050)
 <br/>
-[Data Projects](../data-projects) | Labs: [1](1-data-ingress.md) | [2](2-data-privacy-ethics.md) | [3](3-graph-database.md) | 4 | 5
+[Data Projects](../data-projects) | Labs: [1](1-data-ingress) | [2](2-data-privacy-ethics) | [3](3-graph-database) | 4 | 5
 
 ---
 
-# Lab 3: Exploring Graph Database Using Neo4j (To be finalised)
+# Lab 3: Exploring Graph Database Using Neo4j
 
 This lab builds on the lectures on Data Management and Wrangling. The lab will involve exploring the Paradise Papers graph database using Neo4j. 
+
+#### Updates
+
+<span style="color:blue">2 Feb 2026.</span> Prerequisites available
+
 
 ## Prerequisites
 
@@ -37,7 +42,7 @@ Read about Paradise Papers
 - **If using the Neo4j Sandbox version (in your browser):**
   - Login to Neo4j Sandbox
   - After Sign up or Login, you will be given the choice of starting a project from scratch or using pre-built data (choose the latter) 
-  - Scroll down through the Pre-built Data options and select "Paradise Papers by ICIJ", then click on "Create and Download Credentials"
+  - Scroll down through the **Pre-built Data** options and select **"Paradise Papers by ICIJ"**, then click on **"Create and Download Credentials"**
     - Note that projects in Neo4j Sandbox expire in 3 days.
     - You may need to recreate your project if your previous project expires.
     - Consider saving externally any queries you try on the sandbox.
@@ -47,7 +52,7 @@ Read about Paradise Papers
   - Watch the [YouTube video](https://www.youtube.com/watch?v=o4XeBz1hYJQ) (4 mins) to get more context on the Paradise Papers
   - Copy this ':play https://guides.neo4j.com/sandbox/icij-paradise-papers/datashape.html' (without the quote marks)
   - Paste it (without the quote marks) in the Neo4j command line box at the top of your browser (to the right of the "neo4j$" prompt)
-  - A node-relationship diagram will appear. Read through all nine info canvases "<………>"
+  - A node-relationship diagram will appear on the left. Read through all nine info canvases "<………>"
   - Follow the examples (choosing a person or organisation of interest from the link therein):
         <https://guides.neo4j.com/sandbox/icij-paradise-papers/examples.html>
 

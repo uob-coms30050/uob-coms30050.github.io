@@ -5,7 +5,7 @@ title: Lab 2
 
 [Home](../index) \| [Assessment Information](../assessment-information) \| [Refresher](../refresher) \| [Blackboard Page](https://www.ole.bris.ac.uk/ultra/courses/_264181_1/outline) \| [Blackboard Forum](https://www.ole.bris.ac.uk/ultra/courses/_264181_1/engagement) \| [Unit Catalogue](https://upc.bristol.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=25%2F26&unitCode=COMS30050)
 <br/>
-[Data Projects](../data-projects) | Labs: [1](1-data-ingress.md) | [2](2-data-privacy-ethics.md) | [3](3-graph-database) | 4 | 5
+[Data Projects](../data-projects) | Labs: [1](1-data-ingress) | [2](2-data-privacy-ethics) | [3](3-graph-database) | 4 | 5
 
 ---
 
