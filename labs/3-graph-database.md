@@ -64,8 +64,8 @@ Read about Paradise Papers
 
 ## Lab Tasks
 
-(Task spec will be posted here)
+- [Lab 3 Task Specification](https://www.ole.bris.ac.uk/bbcswebdav/xid-75120490_2)
 
 ## Lab Solutions
 
-(Solutions will be posted here)
+- [Lab 3 Solutions]() (Solutions will be posted here)

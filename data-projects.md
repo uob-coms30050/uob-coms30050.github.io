@@ -8,7 +8,7 @@ title: Data Projects
 [Data Projects](data-projects) | Labs: [1](labs/1-data-ingress) | [2](labs/2-data-privacy-ethics) | [3](labs/3-graph-database) | 4 | 5
 
 ---
-# Data Projects (To be confirmed)
+# Data Projects
 
 ## Project 1. Analysing Social Media Impact on Public Discourse
 This project aims to explore the role of social media in shaping public discourse and influencing societal trends. With billions of users worldwide, platforms such as Bluesky, Twitter, Facebook, and Reddit facilitate real-time communication and information sharing, impacting how individuals engage with topics such as politics, health, and social movements. Collecting and analysing data from these platforms, enables investigating trends in discussions, user engagement, and the influence of significant events on public opinion. The project will involve data collection from social media platforms using APIs or web scraping techniques, utilise natural language processing (NLP) and statistical methods to analyse trends, sentiment, and user interactions, and create visualisation to uncover insights into the complexities of social media's impact on public opinion, communication strategies, and societal change.
