@@ -14,8 +14,8 @@ title: Lab 3
 This lab builds on the lectures on Data Management and Wrangling. The lab will involve exploring the Paradise Papers graph database using Neo4j. 
 
 #### Updates
-
-<span style="color:blue">2 Feb 2026.</span> Prerequisites available
+- <span style="color:blue">4 Feb 2026.</span> Task specification available
+- <span style="color:blue">2 Feb 2026.</span> Prerequisites available
 
 
 ## Prerequisites
