@@ -14,8 +14,10 @@ title: Data Projects
 This project aims to explore the role of social media in shaping public discourse and influencing societal trends. With billions of users worldwide, platforms such as Bluesky, Twitter, Facebook, and Reddit facilitate real-time communication and information sharing, impacting how individuals engage with topics such as politics, health, and social movements. Collecting and analysing data from these platforms, enables investigating trends in discussions, user engagement, and the influence of significant events on public opinion. The project will involve data collection from social media platforms using APIs or web scraping techniques, utilise natural language processing (NLP) and statistical methods to analyse trends, sentiment, and user interactions, and create visualisation to uncover insights into the complexities of social media's impact on public opinion, communication strategies, and societal change.
 
 - Bluesky Social dataset: <https://zenodo.org/records/14669616> (updated)
-- Dataset on Covid-19 tweets: <https://globalaffects.org/covid-news/>
+- Dataset on Covid-19 tweets: <https://ieee-dataport.org/open-access/coronavirus-covid-19-tweets-dataset> [0] (updated) 
 - Dataset on US election tweets: <https://www.kaggle.com/manchunhui/us-election-2020-tweets> 
+
+[0] Rabindra Lamsal, "Coronavirus (COVID-19) Tweets Dataset", IEEE Dataport, March 13, 2020, doi:10.21227/781w-ef42
 
 ## Project 2. Analysing UNICEF Data (e.g., Gender Equality, Child Nutrition)
 UNICEF (<https://data.unicef.org/>) offers a comprehensive collection of datasets that are vital for understanding various aspects of children's and women's rights and well-being. These datasets cover a range of critical topics, including education, gender equality, HIV/AIDS, mortality, child nutrition, poverty, and child protection.

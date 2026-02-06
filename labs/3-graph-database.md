@@ -14,6 +14,7 @@ title: Lab 3
 This lab builds on the lectures on Data Management and Wrangling. The lab will involve exploring the Paradise Papers graph database using Neo4j. 
 
 #### Updates
+- <span style="color:blue">6 Feb 2026.</span> Solutions available
 - <span style="color:blue">4 Feb 2026.</span> Task specification available
 - <span style="color:blue">2 Feb 2026.</span> Prerequisites available
 
@@ -68,4 +69,4 @@ Read about Paradise Papers
 
 ## Lab Solutions
 
-- [Lab 3 Solutions]() (Solutions will be posted here)
+- [Lab 3 Solutions](https://www.ole.bris.ac.uk/bbcswebdav/xid-75120489_2) 
