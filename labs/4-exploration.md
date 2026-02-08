@@ -30,14 +30,14 @@ To prepare for Lab 4, follow these steps before Thursday (give yourself plenty o
     <br> *Acknowledgement: Niall Twomey, Raul Santos-Rodriguez*
 - Explore the IRIS dataset [Important]
   - Download the dataset here:  [Iris.csv](https://www.ole.bris.ac.uk/bbcswebdav/xid-75184794_2)
-  - Notebook to help you explore the dataset: [01_iris_species_2024-25.ipynb](https://www.ole.bris.ac.uk/bbcswebdav/xid-75184791_2)
+  - Notebook to help you explore the dataset: [01_iris_species.ipynb](https://www.ole.bris.ac.uk/bbcswebdav/xid-75184791_2)
   - This includes code to load the Iris data, do some basic exploration and dimensionality reduction via PCA and t-SNE
 - Download the MNIST dataset: [mnist_train.mat](https://www.ole.bris.ac.uk/bbcswebdav/xid-75184797_2) [mnist_test.mat](https://www.ole.bris.ac.uk/bbcswebdav/xid-75184796_2)
   
 ## Lab Tasks
 
 - [Lab 4 Task Specification]() *will be linked here*
-- Python notebook with code to load the MNIST data that is available in .mat file format and to plot scatter plots: [02_mnist_2024-25.ipynb]()
+- Python notebook with code to load the MNIST data that is available in .mat file format and to plot scatter plots: [02_mnist.ipynb]() *will be linekd here*
 - Note the code expects the 'mnist' data files to be a sub-directory called 'mnist'
 
 
