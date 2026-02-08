@@ -36,11 +36,11 @@ To prepare for Lab 4, follow these steps before Thursday (give yourself plenty o
   
 ## Lab Tasks
 
-- [Lab 4 Task Specification]() *will be linked here*
-- Python notebook with code to load the MNIST data that is available in .mat file format and to plot scatter plots: [02_mnist.ipynb]() *will be linekd here*
+- [Lab 4 Task Specification]() *(will be linked here)*
+- Python notebook with code to load the MNIST data that is available in .mat file format and to plot scatter plots: [02_mnist.ipynb]() *(will be linekd here)*
 - Note the code expects the 'mnist' data files to be a sub-directory called 'mnist'
 
 
 ## Lab Solutions
 
-- [Lab 4 Solution]() *will be linked here*
+- [Lab 4 Solution]() *(will be linked here)*
