@@ -23,9 +23,9 @@ This  lab builds on the lectures on Data Fusion and Data Exploration. The lab wi
 To prepare for Lab 4, follow these steps before Thursday (give yourself plenty of time):
 - Revisit the lecture on Data Exploration
 - Go through the remedial material on statistics and dimensionality reduction (*Important:* Spend time on understanding the dimensionality reduction parts of the videos)
-    - [19 mins] [Descriptive Statistics](https://www.ole.bris.ac.uk/bbcswebdav/xid-75181095_2)
-    - [13 mins] [Transforms](https://www.ole.bris.ac.uk/bbcswebdav/xid-75181096_2)
-    - [16 mins] [Dimensionality Reduction](https://www.ole.bris.ac.uk/bbcswebdav/xid-75181097_2)
+    - Descriptive Statistics [Slides](https://www.ole.bris.ac.uk/bbcswebdav/xid-75181095_2) & [Video](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS30050_2025_TB-2/lectures/Week%204%20Materials/Raul%20Remedial%20Materials/data_exploration_1_descriptive_statistics.mov) [19 mins]
+    - Transforms [Slides](https://www.ole.bris.ac.uk/bbcswebdav/xid-75181096_2) & [Video](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS30050_2025_TB-2/lectures/Week%204%20Materials/Raul%20Remedial%20Materials/data_exploration_2_transforms.mov) [13 mins]
+    - Dimensionality Reduction: [Slides](https://www.ole.bris.ac.uk/bbcswebdav/xid-75181097_2) & [Video](https://www.ole.bris.ac.uk/bbcswebdav/courses/COMS30050_2025_TB-2/lectures/Week%204%20Materials/Raul%20Remedial%20Materials/data_exploration_3_dimensionality_reduction.mov) [16 mins]
     - [Combined Slides](https://www.ole.bris.ac.uk/bbcswebdav/xid-75181094_2) 
     <br> *Acknowledgement: Niall Twomey, Raul Santos-Rodriguez*
 - Explore the IRIS dataset [Important]
