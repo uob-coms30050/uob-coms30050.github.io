@@ -5,16 +5,20 @@ title: Data Projects
 
 [Home](index) \| [Assessment Information](assessment-information) \| [Refresher](refresher) \| [Blackboard Page](https://www.ole.bris.ac.uk/ultra/courses/_264181_1/outline) \| [Blackboard Forum](https://www.ole.bris.ac.uk/ultra/courses/_264181_1/engagement) \| [Unit Catalogue](https://upc.bristol.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=25%2F26&unitCode=COMS30050)
 <br/>
-[Data Projects](data-projects) | Labs: [1](labs/1-data-ingress) | [2](labs/2-data-privacy-ethics) | [3](labs/3-graph-database) | [4](labs/4-exploration) | 5
+[Data Projects](data-projects) | Labs: [1](labs/1-data-ingress) | [2](labs/2-data-privacy-ethics) | [3](labs/3-graph-database) | [4](labs/4-exploration) | [5](labs/5-data-visualisation)
 
 ---
 
 # Data Projects
 
+#### Updates
+- <span style="color:blue">3 Mar 2026.</span> Teams and mentors available
+
 #### Registering your team
 
-- Please use the following form to register your team: <https://forms.office.com/e/UgrfXG7Typ> 
-- Deadline: 9AM on Thursday, 12 Feb 2026 (sooner the better)
+- ~~Please use the following form to register your team: <https://forms.office.com/e/UgrfXG7Typ>~~ 
+- ~~Deadline: 9AM on Thursday, 12 Feb 2026 (sooner the better)~~
+- [Teams and Mentors](https://www.ole.bris.ac.uk/bbcswebdav/xid-75683106_2)
 
 
 ## Project 1. Analysing Social Media Impact on Public Discourse

@@ -5,7 +5,7 @@ title: Lab 4
 
 [Home](../index) \| [Assessment Information](../assessment-information) \| [Refresher](../refresher) \| [Blackboard Page](https://www.ole.bris.ac.uk/ultra/courses/_264181_1/outline) \| [Blackboard Forum](https://www.ole.bris.ac.uk/ultra/courses/_264181_1/engagement) \| [Unit Catalogue](https://upc.bristol.ac.uk/unit-programme-catalogue/UnitDetails.jsa?ayrCode=25%2F26&unitCode=COMS30050)
 <br/>
-[Data Projects](../data-projects) | Labs: [1](1-data-ingress) | [2](2-data-privacy-ethics) | [3](3-graph-database) | [4](4-exploration) | 5
+[Data Projects](../data-projects) | Labs: [1](1-data-ingress) | [2](2-data-privacy-ethics) | [3](3-graph-database) | [4](4-exploration) | [5](5-visualisation)
 
 ---
 
@@ -14,6 +14,7 @@ title: Lab 4
 This  lab builds on the lectures on Data Fusion and Data Exploration. The lab will involve exploring the Iris and the MNIST datasets and applying dimensionality reduction techniques. To help you prepare for the lab, you are provided with a Python notebook containing code to load a dataset, to do initial exploration, and to run the PCA and t-SNE algorithms.
 
 #### Updates
+- <span style="color:blue">3 Mar 2026.</span> Solution available
 - <span style="color:blue">12 Feb 2026.</span> Task specification available
 
 
@@ -49,7 +50,7 @@ To prepare for Lab 4, follow these steps before Thursday (give yourself plenty o
 
 ## Lab Solutions
 
-- [Lab 4 Solution]() *(will be linked here)*
+- [Lab 4 Solution](https://www.ole.bris.ac.uk/bbcswebdav/xid-75184792_2)
 
 ---
 # Task Specification

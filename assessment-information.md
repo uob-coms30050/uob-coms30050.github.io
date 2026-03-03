@@ -11,11 +11,15 @@ title: Assessment Information
 
 This unit is assessed entirely through **group coursework**, with individual differentiation achieved via a reflective discussion and supervisor assessment.
 
+#### Updates
+- <span style="color:blue">3 Mar 2026.</span> Sample reports available
+
 
 ### Table of Contents
 - [Assessment Deadlines](#assessment-deadline)
 - [Coursework Brief and Guidance](#coursework-brief-and-guidance)
 - [FAQs](#faqs-working-in-a-group)
+- [Sample Reports and Research Papers for Reference](#sample-reports-and-research-papers-for-reference)
 
 --- 
 
@@ -191,3 +195,25 @@ You must include the following at the beginning of your report: "We agree that a
 Q5. I have a Study Support Plan (SSP) 
 
 Talk to Nirav at the earliest and we can discuss how to we can tailor the coursework to your SSP. 
+
+## Sample Reports and Research Papers for Reference
+
+### Sample Reports from Previous Years
+
+- Sample 1 (Excellent Report). [Loneliness and Deprivation in England](https://www.ole.bris.ac.uk/bbcswebdav/xid-75682145_2). Applied Data Science @ University of Bristol.
+- Sample 2 (Excellent Report). [Explaining Multiodal Activity Predictions for the SPHERE Challenge using Interactive Visualizations](https://www.ole.bris.ac.uk/bbcswebdav/xid-75682146_2). Applied Data Science @ University of Bristol.
+- Sample 3 (Strong Report). [Credit Card Fraud Detection](https://www.ole.bris.ac.uk/bbcswebdav/xid-75682147_2). Applied Data Science @ University of Bristol.
+- Sample 4 (Good Report). [Understanding and Predicting Privacy Risks in Images](https://www.ole.bris.ac.uk/bbcswebdav/xid-75682148_2). Applied Data Science @ University of Bristol.
+
+### Research and Data Papers:
+- Tong Li, Mingyang Zhang, Hancheng Cao, Yong Li, Sasu Tarkoma, and Pan Hui. 2020. ”What Apps Did You Use?”: Understanding the Long-term Evolution of Mobile App Usage. In Proceedings of The Web Conference 2020 (WWW '20). ACM, 66–76. DOI:https://doi.org/10.1145/3366423.3380095 (<https://dl.acm.org/doi/pdf/10.1145/3366423.3380095>)
+
+- Daniele Rama, Yelena Mejova, Michele Tizzoni, Kyriaki Kalimeri, and Ingmar Weber. 2020. Facebook Ads as a Demographic Tool to Measure the Urban-Rural Divide. In Proceedings of The Web Conference 2020 (WWW '20). ACM, 327–338. DOI:https://doi.org/10.1145/3366423.3380118 (<https://dl.acm.org/doi/pdf/10.1145/3366423.3380118>)
+
+- Kaichen Zhang, Jingbo Zhou, Donglai Tao, Panagiotis Karras, Qing Li, and Hui Xiong. 2020. Geodemographic Influence Maximization. In Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD '20). ACM, 2764–2774. DOI:https://doi.org/10.1145/3394486.3403327 (<https://dl.acm.org/doi/pdf/10.1145/3394486.3403327>)
+
+- Ying Li, Vitalii Zakhozhyi, Daniel Zhu, and Luis J. Salazar. 2020. Domain Specific Knowledge Graphs as a Service to the Public: Powering Social-Impact Funding in the US. In Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD '20). ACM, 2793–2801. DOI:https://doi.org/10.1145/3394486.3403330 (<https://dl.acm.org/doi/pdf/10.1145/3394486.3403330>)
+
+- Xianfeng Tang, Yozen Liu, Neil Shah, Xiaolin Shi, Prasenjit Mitra, and Suhang Wang. 2020. Knowing your FATE: Friendship, Action and Temporal Explanations for User Engagement Prediction on Social Apps. In Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD '20). ACM, 2269–2279. DOI:https://doi.org/10.1145/3394486.3403276 (<https://dl.acm.org/doi/pdf/10.1145/3394486.3403276>)
+
+*Note: To access the full paper PDFs, click Get Access > Sign In > Institutional Login > Select University of Bristol.*
