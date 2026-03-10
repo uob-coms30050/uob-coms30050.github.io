@@ -51,7 +51,7 @@ Please read through all the information on this page and skim through the [refre
 | 18 (w/c 23-Feb-2026) | - | - | - | Computer Science Consolidation Week |
 | | | | **Tuesday Show and Tell and Drop-In**<br>**(Queens 1.15 SLT; 10am–11am)** | **Thursday Supervision**<br>**(9am–11am)** |
 | 19 (w/c 2-Mar-2026) | Group CW Starts | Nirav Ajmeri; Seth Bullock | [Coursework Introduction and Q&A](https://www.ole.bris.ac.uk/bbcswebdav/xid-75681205_2) | Supervision Meeting |
-| 20 (w/c 9-Mar-2026) | Group CW Continues | Nirav Ajmeri | Show and Tell <br> Explainability and Fairness in Data Science <br> [notebook](https://www.ole.bris.ac.uk/bbcswebdav/xid-75838450_2) [data](https://www.ole.bris.ac.uk/bbcswebdav/xid-75838451_2) | Supervision Meeting |
+| 20 (w/c 9-Mar-2026) | Group CW Continues | Nirav Ajmeri | Show and Tell: _Explainability and Fairness in Data Science_ <br> [notebook](https://www.ole.bris.ac.uk/bbcswebdav/xid-75838450_2), [data](https://www.ole.bris.ac.uk/bbcswebdav/xid-75838451_2) | Supervision Meeting |
 | 21 (w/c 16-Mar-2026) | Group CW Continues | Nirav Ajmeri; Seth Bullock | Coursework Q&A | Supervision Meeting |
 | (w/c 23-Mar-2026) | **SPRING VACATION** |  |  |  |
 | (w/c 30-Mar-2026) | **SPRING VACATION** |  |  |  |
