@@ -56,7 +56,7 @@ Please read through all the information on this page and skim through the [refre
 | (w/c 23-Mar-2026) | **SPRING VACATION** |  |  |  |
 | (w/c 30-Mar-2026) | **SPRING VACATION** |  |  |  |
 | (w/c 6-Apr-2026)  | **SPRING VACATION** |  |  |  |
-| 22 (w/c 13-Apr-2026) | Group CW Continues / Coursework Presentations | Guest Speaker | Show and Tell | **Coursework Presentations**<br>(IVY GATE BUILDING 1.01)<br>Thursday 16-Apr-2026, 9am–12pm |
+| 22 (w/c 13-Apr-2026) | Group CW Continues / Coursework Presentations | Guest Speaker <br/> [Atharva Joshi](https://www.linkedin.com/in/atharva-joshi-b80356153/), [Civis](https://www.civis.vote/) | Show and Tell | **Coursework Presentations**<br>(IVY GATE BUILDING 1.01)<br>Thursday 16-Apr-2026, 9am–12pm |
 | 23 (w/c 20-Apr-2026) | Group CW Supervision Ends | Nirav Ajmeri; Seth Bullock | Coursework Q&A | Supervision Meeting (Queens 1.80) |
 | 24 (w/c 27-Apr-2026) |  |  |  |  **COURSEWORK DUE**<br>*1PM on Tuesday, 28-Apr-2026*  |
 
